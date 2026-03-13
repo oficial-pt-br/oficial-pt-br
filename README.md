@@ -1,3 +1,6 @@
+
+## Sempre preferi resolver problemas em vez de reclamar. Minha curiosidade para entender como cada coisa funciona e tentar solucionar os problemas das pessoas me levaram à programação. Minha paixão está aqui, onde cada degrau me deixa empolgado. Eu sou obcecado, pois naturalmente tenho a necessidade de sempre tentar entender como cada tecnologia funciona e como resolver os problemas.
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoniorcs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio&show_icons=true&theme=dracula)

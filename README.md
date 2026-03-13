@@ -16,7 +16,7 @@ Profissional na área de Tecnologia da informação, Desenvolvedor Back-End | ph
 
 </div>
 
-</br>
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 

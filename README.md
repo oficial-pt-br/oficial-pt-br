@@ -2,7 +2,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoniorcs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-pt-br&show_icons=true&theme=dracula)
+![GitHubCard](https://githubcard.com/oficial-pt-br.svg)
 
 Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, MongoDB | Git, GitHub Actions (CI/CD)
 
@@ -13,6 +13,7 @@ Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, Mongo
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 
 </div>
 

@@ -1,8 +1,6 @@
 ### Olá! Eu sou Antonio👋
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoniorcs)
-
-![GitHubCard](https://githubcard.com/oficial-pt-br.svg)
+![GitHubCard](https://githubcard.com/g/_UhjdfDFyv2QyWsc.svg)
 
 Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, MongoDB | Git, GitHub Actions (CI/CD)
 
@@ -19,8 +17,7 @@ Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, Mongo
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oficial-pt-br&stats_format=bytes)
-
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoniorcs)
 
 Sobre me👀
 

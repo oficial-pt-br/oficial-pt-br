@@ -10,7 +10,7 @@ Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, Mongo
 
 <br/>
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toonitech_?igsh=eGg4MmE4bThmeW9y&utm_source=qr)[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antoniorcs)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toonitech_?igsh=eGg4MmE4bThmeW9y&utm_source=qr)[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniorcs)
 
 Sobre me👀
 

@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oficial-pt-br&show_icons=true&theme=dracula)
 
-Profissional na área de Tecnologia da informação, Desenvolvedor Back-End | php, Laravel, Java, javascript, | MySQL, SQL Server, MongoDB, PostgreSQL | Git, Gitlab e GitHub Actions (CI/CD)
+Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, MongoDB | Git, GitHub Actions (CI/CD)
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>

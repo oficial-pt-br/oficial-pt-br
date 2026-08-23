@@ -1,6 +1,6 @@
 ### Olá! Eu sou Antonio👋
 
-![GitHubCard](https://githubcard.com/g/_UhjdfDFyv2QyWsc.svg)
+![GitHubCard](https://githubcard.com/oficial-pt-br.svg?d=fPIcv1_SgV3p)
 
 Desenvolvedor Back-End | Laravel, Node.js | MySQL, SQL Server, PostgreSQL, MongoDB | Git, GitHub Actions (CI/CD)
 
